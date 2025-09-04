@@ -54,7 +54,8 @@ D. Getting help
 Run the following commands.
 
     git help
-    git help -ag
+    git help -a
+	git help -g
     git help init
 
 1.  What does `git help` do?
@@ -64,7 +65,8 @@ Run the following commands.
 
     ```
 
-2.  What does `-ag` cause `git help` to do?
+2.  a. What does `-a` cause `git help` to do?
+    b. What does `-g` cause `git help` to do?
 
     ```
 
