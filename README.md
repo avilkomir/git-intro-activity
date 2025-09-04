@@ -1,4 +1,5 @@
 # Git Intro Activity
+Based on original work of Darci Burdge and Stoney Jackson https://github.com/foss2serve/git-intro-activity
 
 Participants, in teams of 2-3, work through an activity to learn how to install, configure, and use git to manage local repositories.
 
